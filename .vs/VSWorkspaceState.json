@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\EmployeeManagement",
+    "\\EmployeeManagement\\Department",
+    "\\EmployeeManagement\\Employees",
+    "\\EmployeeManagement\\Projects",
+    "\\EmployeeManagement\\Screens",
+    "\\EmployeeManagement\\Staffs",
+    "\\EmployeeManagement\\TestApp",
+    "\\EmployeeManagement\\Volunteer"
+  ],
+  "SelectedNode": "\\EmployeeManagement\\Staffs\\Staff.cs",
+  "PreviewInSolutionExplorer": false
+}
